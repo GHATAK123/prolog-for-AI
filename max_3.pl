@@ -1,0 +1,1 @@
+max(X,Y,Z) :- X>Y,X>Z,write(X);X<Y,Y>Z,write(Y);Z>X,Z>Y,write(Z);X=Y,Y=Z,write("All are equal").

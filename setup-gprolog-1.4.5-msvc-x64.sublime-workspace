@@ -1,0 +1,1035 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Re",
+				"Reversed"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"X",
+				"Xs"
+			],
+			[
+				"L",
+				"list_member"
+			],
+			[
+				"l",
+				"L2"
+			],
+			[
+				"c",
+				"current_app"
+			],
+			[
+				"fl",
+				"flaskblog"
+			],
+			[
+				"m",
+				"mail"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"Req",
+				"request"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"p",
+				"page_num"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"btn-",
+				"btn-danger"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"co",
+				"commit"
+			],
+			[
+				"abo",
+				"abort"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"Pos",
+				"PostForm"
+			],
+			[
+				"s",
+				"SubmitField"
+			],
+			[
+				"T",
+				"TextAreaField"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"o",
+				"output_size"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"pu",
+				"picture_file"
+			],
+			[
+				"sa",
+				"save_picture"
+			],
+			[
+				"pi",
+				"picture_fn"
+			],
+			[
+				"form",
+				"form_picture"
+			],
+			[
+				"F",
+				"FileAllowed"
+			],
+			[
+				"fla",
+				"flask_wtf"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"Us",
+				"UserMixin"
+			],
+			[
+				"h",
+				"hashed_password"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"dta",
+				"datetime"
+			],
+			[
+				"dat",
+				"date_posted"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"flas",
+				"flask"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "g1.pl",
+			"settings":
+			{
+				"buffer_size": 83,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "male(amit)."
+			}
+		},
+		{
+			"file": "family.pl",
+			"settings":
+			{
+				"buffer_size": 487,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fibbonacci.pl",
+			"settings":
+			{
+				"buffer_size": 164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "fib(0,0)."
+			}
+		},
+		{
+			"file": "fact.pl",
+			"settings":
+			{
+				"buffer_size": 416,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sum_average.pl",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "max_3.pl",
+			"settings":
+			{
+				"buffer_size": 96,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "delete_element.pl",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "list_length([],0).\nlist_length([_|TAIL],N):- list_length(TAIL,N1), N is N1+1.",
+			"file": "list_length.pl",
+			"file_size": 78,
+			"file_write_time": 132201872325131192,
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "last_element_list.pl",
+			"settings":
+			{
+				"buffer_size": 64,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "nth_number.pl",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "reverse_list.pl",
+			"settings":
+			{
+				"buffer_size": 200,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gcd_lcm.pl",
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "list_concatenation.pl",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "merge_sort.pl",
+			"settings":
+			{
+				"buffer_size": 372,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backtracking.pl",
+			"settings":
+			{
+				"buffer_size": 56,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cut1.pl",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/prolog/quick_sort.pl",
+		"/D/prolog/insertion.pl",
+		"/D/prolog/bubble.pl",
+		"/D/prolog/add_element_as_head.pl",
+		"/D/prolog/list_member_backtracking.pl",
+		"/D/prolog/list_member.pl",
+		"/D/prolog/fact.pl",
+		"/D/prolog/fact_without_recursion.pl",
+		"/D/prolog/list_length.pl",
+		"/D/prolog/list_concatenation.pl",
+		"/D/prolog/union.pl",
+		"/D/prolog/intersection.pl",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/403.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/500.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/404.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/errors/handlers.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/errors/__init__.py",
+		"/C/Users/Prakash Anand/Desktop/my_code/Face--Recognition-with-Opencv-master/Face_and_Eye.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/home.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/config.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/models.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/utils.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/run.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/layout.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/login.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/post.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/register.html",
+		"/C/Users/Prakash Anand/.bash_profile",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/main/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/user_posts.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/create_post.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/account.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/reset_request.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/reset_token.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/main/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/models.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/layout.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/login.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/register.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/about.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/home.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/static/main.css"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "g1.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "male(amit).",
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "family.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fibbonacci.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"auto_name": "fib(0,0).",
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fact.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sum_average.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "max_3.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "delete_element.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "list_length.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 10.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "last_element_list.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "nth_number.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "reverse_list.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "gcd_lcm.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "list_concatenation.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "merge_sort.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "backtracking.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "cut1.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "setup-gprolog-1.4.5-msvc-x64.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
